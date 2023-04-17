@@ -11,7 +11,7 @@
   
 ##
 
-!godooooy GitHub stats](https://github-readme-stats.vercel.app/api?username=godooooy&show_icons=true&theme=tokyonight)
+![godooooy GitHub stats](https://github-readme-stats.vercel.app/api?username=godooooy&show_icons=true&theme=tokyonight)
 
 ##
  
